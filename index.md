@@ -11,7 +11,7 @@ This year’s challenge is brought to you through a collaboration with [the nSOF
 |**Location**:|      In Person: [MRS Spring 2024: Tutorial MT00](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2024-mrs-spring-meeting/call-for-papers/tutorial-sessions/tutorial-mt00) |
 ||               Virtual: Zoom |
 |**Host**:|          In Person: [Tyler Martin](https://www.nist.gov/people/tyler-martin), [Peter Beaucage](https://www.nist.gov/people/peter-beaucage) (NIST, nSOFT), [Shijing Sun](https://www.me.washington.edu/facultyfinder/shijing-sun) (UWash) |
-||               Remote: [A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne), [Austin McDannald](https://www.nist.gov/people/austin-mcdannald) (NIST) |
+||               Remote: [A. Gilad Kusne](https://www.nist.gov/people/aaron-gilad-kusne) (NIST) |
 |**Register**:|     [website](https://forms.gle/EYByMHVM8BS6VdnX7) |
 |**Questions?**| Please contact: mlmr@umd.edu |
 
